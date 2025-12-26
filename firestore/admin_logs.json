@@ -1,0 +1,6 @@
+{
+  "adminId": "uid",
+  "action": "VERIFY_HOSPITAL | ASSIGN_ADMIN",
+  "targetUserId": "uid",
+  "timestamp": "timestamp"
+}
