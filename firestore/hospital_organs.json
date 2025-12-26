@@ -1,0 +1,7 @@
+{
+  "hospitalId": "uid",
+  "hospitalName": "string",
+  "organ": "Heart | Kidney",
+  "available": true,
+  "lastUpdated": "timestamp"
+}
