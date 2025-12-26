@@ -1,0 +1,8 @@
+{
+  "uid": "string",
+  "name": "string",
+  "email": "string",
+  "role": "user | hospital | admin",
+  "verified": false,
+  "createdAt": "timestamp"
+}
