@@ -1,0 +1,7 @@
+{
+  "userId": "uid",
+  "organ": "Kidney | Liver | Heart",
+  "urgency": "Low | Medium | High",
+  "status": "pending | approved",
+  "createdAt": "timestamp"
+}
