@@ -1,0 +1,7 @@
+{
+  "userId": "uid",
+  "organ": "Kidney | Liver | Heart | Eye",
+  "bloodGroup": "A+ | B+ | O+",
+  "status": "active | completed",
+  "createdAt": "timestamp"
+}
